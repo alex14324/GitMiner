@@ -118,12 +118,9 @@ $:> python3 gitminer-v2.0.py --query 'filename:configuration extension:php "publ
 ```
 ![Screenshot](https://3.bp.blogspot.com/-1AsNmFKfsoA/VtLyvJFy2WI/AAAAAAAAbno/C7xTbxtzOo8/s1600/joomlaEX.png)
 
-### Hacking SSH Servers
 
-[![Hacking SSH Servers](https://img.youtube.com/vi/yIJOlKZwQQw/0.jpg)](https://www.youtube.com/watch?v=yIJOlKZwQQw)
 
 ### Dork to search
-##### by @techgaun (https://github.com/techgaun/github-dorks)
 
  Dork                                           | Description
 ------------------------------------------------|--------------------------------------------------------------------------
