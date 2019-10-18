@@ -54,7 +54,7 @@ $ docker run -it gitminer -h
 ### HELP
 ```
 
-                                 UnkL4b
+                                 alex14324
   __                   Automatic search for Github
 ((OO))   ▄████  ██▓▄▄▄█████▓ ███▄ ▄███▓ ██▓ ███▄    █ ▓█████  ██▀███  
  \__/   ██▒ ▀█▒▓██▒▓  ██▒ ▓▒▓██▒▀█▀ ██▒▓██▒ ██ ▀█   █ ▓█   ▀ ▓██ ▒ ██▒      OO
