@@ -36,7 +36,7 @@ re
 
 ### INSTALL
 ```
-$ git clone http://github.com/UnkL4b/GitMiner
+$ git clone http://github.com/alex14324/GitMiner
 
 $ cd GitMiner
 
@@ -44,7 +44,7 @@ $ cd GitMiner
 ```
 ### Docker
 ```
-$ git clone http://github.com/UnkL4b/GitMiner
+$ git clone http://github.com/alex14324/GitMiner
 $ cd GitMiner
 $ docker build -t gitminer .
 $ docker run -it gitminer -h
